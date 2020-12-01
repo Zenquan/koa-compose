@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+	"author": "jomsoucan@gmail.com",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/zenquan/zen-koa-compose/issues"
+	},
+	"homepage": "https://github.com/zenquan/zen-koa-compose#readme",
 }
