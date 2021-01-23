@@ -1,4 +1,4 @@
-# zen-koa-compose
+# koa-compose
 
 参考koa中的中间件引擎[koa-compose](https://github.com/koajs/compose)
 
